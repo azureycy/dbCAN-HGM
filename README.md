@@ -24,7 +24,7 @@ Database of CAZyme gene clusters (CGCs) in gut microbiomes from diverse human po
 
 ### CGC family generation
   - [compute_pairwise_JI_score.py](https://github.com/azureycy/dbCAN-HGM/blob/main/compute_pairwise_JI_score.py)
-  - [mcl.sh](https://github.com/azureycy/dbCAN-HGM/blob/main/mcl.sh))
+  - [mcl.sh](https://github.com/azureycy/dbCAN-HGM/blob/main/mcl.sh)
 
 ### Read mapping to profile CGC in different microbiome samples
   - [bowtie2_mapping.sh](https://github.com/azureycy/dbCAN-HGM/blob/main/bowtie2_mapping.sh)
