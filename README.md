@@ -30,4 +30,7 @@ Database of CAZyme gene clusters (CGCs) in gut microbiomes from diverse human po
   - [bowtie2_mapping.sh](https://github.com/azureycy/dbCAN-HGM/blob/main/bowtie2_mapping.sh)
 
 ### Structural prediction and homology search for null proteins in CGCs
+  - [foldseek_run_htmls.sh](https://github.com/azureycy/dbCAN-HGM/blob/main/foldseek_run_htmls.sh)
+  - [foldseek_run_tsv.sh](https://github.com/azureycy/dbCAN-HGM/blob/main/foldseek_run_tsv.sh)
+  - [structure_prediction.sh](https://github.com/azureycy/dbCAN-HGM/blob/main/structure_prediction.sh)
 
